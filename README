@@ -1,0 +1,13 @@
+Distributed Task Queue
+
+= Description =
+
+Distribute Task Queue using Twisted, txamqp, RabbitMQ
+
+= v 0.1 =
+
+* Add jobs via script
+* show status via script
+
+= Set up RabbitMQ =
+
